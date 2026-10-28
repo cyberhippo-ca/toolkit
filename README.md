@@ -6,7 +6,7 @@ Write-ups showing these in use: **[cyberhippo.ca](https://cyberhippo.ca)**
 
 ✅ in use · 🛠️ part of the lab build · 🔖 bookmarked, not used yet
 
-**Jump to:** [Git](#git-and-docs) · [DNS](#domain-and-dns) · [Email](#email-spoofing-protection) · [Web security](#web-hosting-and-security-headers) · [Accessibility](#accessibility-and-site-quality) · [Network](#firewall-vpn-and-network) · [Remote access](#remote-access) · [Self-hosted](#self-hosted-services) · [macOS](#macos-checks) · [Security lab](#security-lab) · [Scripts](#scripts-in-this-repo) · [Lists](#lists-and-references)
+**Jump to:** [Git](#git-and-docs) · [DNS](#domain-and-dns) · [Email](#email-spoofing-protection) · [Web security](#web-hosting-and-security-headers) · [Accessibility](#accessibility-and-site-quality) · [Network](#firewall-vpn-and-network) · [Remote access](#remote-access) · [Self-hosted](#self-hosted-services) · [Offline AI](#offline-knowledge-and-local-ai) · [macOS](#macos-checks) · [Security lab](#security-lab) · [Scripts](#scripts-in-this-repo) · [Lists](#lists-and-references)
 
 ---
 
@@ -80,6 +80,14 @@ Running in Docker on my Mac mini.
 - ✅ **[Tautulli](https://github.com/Tautulli/Tautulli)**: Plex monitoring
 - ✅ **Docker socket proxy** (e.g. [Tecnativa](https://github.com/Tecnativa/docker-socket-proxy)): limited Docker API access for Homepage, instead of the raw socket
 - 🛠️ **[Home Assistant](https://www.home-assistant.io/)**: home automation on its own VLAN
+
+## Offline knowledge and local AI
+
+Running on my Acer Nitro V laptop. Write-up: [Project NOMAD](https://cyberhippo.ca/writeups/project-nomad)
+
+- ✅ **[Project NOMAD](https://www.projectnomad.us/)**: offline Wikipedia, maps, reference libraries and AI in one dashboard ([GitHub](https://github.com/Crosstalk-Solutions/project-nomad))
+- ✅ **[WSL2](https://learn.microsoft.com/en-us/windows/wsl/install)**: running NOMAD on Windows ([NOMAD WSL2 guide](https://www.projectnomad.us/install/wsl2))
+- ✅ **[Ollama](https://ollama.com/)**: local AI model runtime, with Qwen 3.5 9B
 
 ## macOS checks
 
